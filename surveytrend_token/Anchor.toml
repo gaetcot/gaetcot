@@ -1,9 +1,0 @@
-[programs.localnet]
-surveytrend_token = "55iV9fHtxUR6MT77zn2umx1HdZ3BBBzrAygZJkthQ5HF"
-
-[provider]
-cluster = "localnet"
-wallet = "~/.config/solana/id.json"
-
-[scripts]
-test = "mocha -t 1000000"
